@@ -1,0 +1,146 @@
+--insert into pupils (surname, name, last_name, birth, tel, email, class_id) 
+--values ('Мордасов', 'Дмитрий', 'Алексеевич', '2005-10-20', 89202334468, 'ModasovDA@michlycee.ru', 14);
+--insert into pupils (surname, name, last_name, birth, tel, email, class_id) 
+--values ('Афанасьева', 'Алина', 'Геннадьевна', '2005-05-11', 89209276834, 'AfanasevaAG@michlycee.ru', 14);
+--insert into pupils (surname, name, last_name, birth, tel, email, class_id) 
+--values ('Весёлкин', 'Павел', 'Дмитриевич', '2005-10-05', 89201683497, 'VeselkinPD@michlycee.ru', 14);
+--insert into pupils (surname, name, last_name, birth, tel, email, class_id) 
+--values ('Гриднев', 'Дмитрий', 'Алексеевич', '2005-05-28', 89201573648, 'GridnevDA@michlycee.ru', 14);
+--insert into pupils (surname, name, last_name, birth, tel, email, class_id) 
+--values ('Ефимова', 'Ольга', 'Сергеевна', '2005-06-17', 89202254861, 'EfimovaOS@michlycee.ru', 14);
+--insert into pupils (surname, name, last_name, birth, tel, email, class_id) 
+--values ('Захаров', 'Михаил', 'Романович', '2005-12-03', 89203481659, 'ZaharovMR@michlycee.ru', 14);
+--insert into pupils (surname, name, last_name, birth, tel, email, class_id) 
+--values ('Ильина', 'София', 'Александровна', '2005-07-05', 89207588614, 'IlyinaSA@michlycee.ru', 14);
+--insert into pupils (surname, name, last_name, birth, tel, email, class_id) 
+--values ('Козлова', 'Алина', 'Руслановна', '2005-02-23', 89204815537, 'KozlovaAR@michlycee.ru', 14);
+--insert into pupils (surname, name, last_name, birth, tel, email, class_id) 
+--values ('Красников', 'Владимир', 'Александрович', '2005-06-10', 89208987264, 'KrasnikovVA@michlycee.ru', 14);
+--insert into pupils (surname, name, last_name, birth, tel, email, class_id) 
+--values ('Милкин', 'Иван', 'Владимирович', '2005-12-28', 89206648329, 'MilkinIV@michlycee.ru', 14); 
+--insert into pupils (surname, name, last_name, birth, tel, email, class_id) 
+--values ('Полубояринов', 'Илья', 'Вадимович', '2005-05-16', 89203485227, 'PoluboyarinovIV@michlycee.ru', 14);
+--insert into pupils (surname, name, last_name, birth, tel, email, class_id) 
+--values ('Сапова', 'Мария', 'Михайловна', '2005-03-07', 89205486265, 'SapovaMM@michlycee.ru', 14);
+--insert into pupils (surname, name, last_name, birth, tel, email, class_id) 
+--values ('Субботина', 'Елизавета', 'Александровна', '2005-08-26', 89203452398, 'SubbotinaEA@michlycee.ru', 14);
+==============================================================================================
+--insert into pupils (surname, name, last_name, birth, tel, email, class_id) 
+--values ('Порядина', 'Мария', 'Сергеевна', '2005-06-16', 89204862359, 'PoryadinaMS@michlycee.ru', 15);
+--insert into pupils (surname, name, last_name, birth, tel, email, class_id) 
+--values ('Родюков', 'Никита', 'сергеевич', '2005-07-21', 89208862345, 'RodyukovNS@michlycee.ru', 15);
+--insert into pupils (surname, name, last_name, birth, tel, email, class_id) 
+--values ('Кривошеева', 'Анна', 'Алексеевна', '2005-02-12', 89208943233, 'KrivosheevaAA@michlycee.ru', 15);
+--insert into pupils (surname, name, last_name, birth, tel, email, class_id) 
+--values ('Зотова', 'Полина', 'Дмитриевна', '2005-08-01', 89202245362, 'ZotovaPD@michlycee.ru', 15);
+--insert into pupils (surname, name, last_name, birth, tel, email, class_id) 
+--values ('Осипова', 'Полина', 'Алексеевна', '2005-10-21', 892098923356, 'OsipovaPA@michlycee.ru', 15);
+--insert into pupils (surname, name, last_name, birth, tel, email, class_id) 
+--values ('Полянская', 'Софья', 'Владиславовна', '2005-09-06', 89202153486, 'PolyanskayaSV@michlycee.ru', 15);
+--insert into pupils (surname, name, last_name, birth, tel, email, class_id) 
+--values ('Шмакова', 'Диана', 'Валериевна', '2005-07-16', 89204463519, 'ShmakovaDV@michlycee.ru', 15);
+--insert into pupils (surname, name, last_name, birth, tel, email, class_id) 
+--values ('Козлова', 'Инна', 'Руслановна', '2005-02-23', 89203314526, 'KozlovaIR@michlycee.ru', 15);
+--insert into pupils (surname, name, last_name, birth, tel, email, class_id) 
+--values ('Томильченко', 'Ангелина', 'Васильевна', '2005-06-15', 89201473291, 'TomilchinkoAV@michlycee.ru', 15);
+--insert into pupils (surname, name, last_name, birth, tel, email, class_id) 
+--values ('Козлова', 'Инна', 'Руслановна', '2005-02-23', 89203314526, 'KozlovaIR@michlycee.ru', 15);
+--insert into pupils (surname, name, last_name, birth, tel, email, class_id) 
+--values ('Рахманова', 'Дарья', 'Сергеевна', '2005-07-15', 89204315986, 'RahmanovaDS@michlycee.ru', 15);
+--insert into pupils (surname, name, last_name, birth, tel, email, class_id) 
+--values ('Черных', 'Мария', 'Владиславовна', '2005-08-14', 89207216521, 'ChernyhMV@michlycee.ru', 15);
+--insert into pupils (surname, name, last_name, birth, tel, email, class_id) 
+--values ('Иванов', 'Максим', 'Андреевич', '2005-05-09', 89203581149, 'IvanovMA@michlycee.ru', 15);
+--insert into pupils (surname, name, last_name, birth, tel, email, class_id) 
+--values ('Хорев', 'Артём', 'Александрович', '2005-07-03', 89203263092, 'HorevAA@michlycee.ru', 15);
+==============================================================================================
+--insert into teachers (surname, name, last_name, birth, stazh, tel, email, direction_id, salary_id)
+--values ('Неудахина', 'Наталья', 'Васильевна', '1900-02-05', 36, 89208102304, 'NNV@michlycee.ru', 3, 3);
+--insert into teachers (surname, name, last_name, birth, stazh, tel, email, direction_id, salary_id)
+--values ('Калинина', 'Ирина', 'Петровна', '1900-08-14', 14, 89201425032, 'KIP@michlycee.ru', 5, 3);
+--insert into teachers (surname, name, last_name, birth, stazh, tel, email, direction_id, salary_id)
+--values ('Кульгускина', 'Кристина', 'Сергеевна', '1900-04-15', 12, 89202623592, 'KKS@michlycee.ru', 5, 1);
+--insert into teachers (surname, name, last_name, birth, stazh, tel, email, direction_id, salary_id)
+--values ('Манылов', 'Павел', 'Сергеевич', '1900-05-26', 10, 89205983002, 'MPS@michlycee.ru', 4, 7);
+--insert into teachers (surname, name, last_name, birth, stazh, tel, email, direction_id, salary_id)
+--values ('Улыбышева', 'Светлана', 'Анатольевна', '1900-08-08', 19, 89208103288, 'YSA@michlycee.ru', 2, 4);
+--insert into teachers (surname, name, last_name, birth, stazh, tel, email, direction_id, salary_id)
+--values ('Бортникова', 'Марина', 'Петровна', '1900-10-11', 23, 89202532060, 'BMP@michlycee.ru', 1, 2);
+--insert into teachers (surname, name, last_name, birth, stazh, tel, email, direction_id, salary_id)
+--values ('Климов', 'Павел', 'Владимирович', '1900-06-03', 20, 89207819365, 'KPV@michlycee.ru', 6, 1);
+--insert into teachers (surname, name, last_name, birth, stazh, tel, email, direction_id, salary_id)
+--values ('Глинский', 'Владимир', 'Васильевич', '1900-04-16', 48, 89202350010, 'GVV@michlycee.ru', 6, 2);
+--insert into teachers (surname, name, last_name, birth, stazh, tel, email, direction_id, salary_id)
+--values ('Зорина', 'Нина', 'Андреевна', '1900-03-19', 34, 89207849200, 'ZNA@michlycee.ru', 7, 5);
+--insert into teachers (surname, name, last_name, birth, stazh, tel, email, direction_id, salary_id)
+--values ('Шелковникова', 'Анна', 'Юрьевна', '1900-07-23', 1, 89203206589, 'SAU@michlycee.ru', 7, 6);
+==============================================================================================
+АА ВНОСИТЬ В САМОМ КОНЦЕ!!!!!!
+--insert into teachers (surname, name, last_name, birth, stazh, tel, email, direction_id, salary_id)
+--values ('Десятник', 'Алексей', 'Андреевич', '0000-00-00', 00, 00000000000, 'DAA@michlycee.ru', 2, 5);
+==============================================================================================
+--insert into marks (pupil_id, subject_id, [1_quater], [2_quater], [3_quater], [4_quater], year) values (1, 1, 4, 4, 5, 4, 4);
+--insert into marks (pupil_id, subject_id, [1_quater], [2_quater], [3_quater], [4_quater], year) values (2, 2, 5, 5, 5, 4, 5);
+--insert into marks (pupil_id, subject_id, [1_quater], [2_quater], [3_quater], [4_quater], year) values (3, 3, 4, 4, 4, 4, 4);
+--insert into marks (pupil_id, subject_id, [1_quater], [2_quater], [3_quater], [4_quater], year) values (4, 4, 5, 4, 4, 5, 5);
+--insert into marks (pupil_id, subject_id, [1_quater], [2_quater], [3_quater], [4_quater], year) values (5, 5, 5, 4, 5, 4, 5);
+--insert into marks (pupil_id, subject_id, [1_quater], [2_quater], [3_quater], [4_quater], year) values (6, 6, 3, 4, 5, 4, 4);
+--insert into marks (pupil_id, subject_id, [1_quater], [2_quater], [3_quater], [4_quater], year) values (7, 7, 4, 4, 3, 5, 4);
+--insert into marks (pupil_id, subject_id, [1_quater], [2_quater], [3_quater], [4_quater], year) values (8, 8, 4, 4, 5, 4, 4);
+--insert into marks (pupil_id, subject_id, [1_quater], [2_quater], [3_quater], [4_quater], year) values (9, 9, 4, 5, 4, 3, 4);
+--insert into marks (pupil_id, subject_id, [1_quater], [2_quater], [3_quater], [4_quater], year) values (10, 10, 5, 5, 5, 4, 5);
+==============================================================================================
+--insert into cabinets (number, place_quantiity) values (6, 32);
+--insert into cabinets (number, place_quantiity) values (9, 30);
+--insert into cabinets (number, place_quantiity) values (15, 18);
+--insert into cabinets (number, place_quantiity) values (12, 14);
+--insert into cabinets (number, place_quantiity) values (23, 16);
+--insert into cabinets (number, place_quantiity) values (22, 24);
+--insert into cabinets (number, place_quantiity) values (21, 26);
+--insert into cabinets (number, place_quantiity) values (26, 16);
+==============================================================================================
+--insert into teacher_subject (teacher_id, subject_id) values (1, 8);
+--insert into teacher_subject (teacher_id, subject_id) values (2, 7);
+--insert into teacher_subject (teacher_id, subject_id) values (3, 1);
+--insert into teacher_subject (teacher_id, subject_id) values (3, 2);
+--insert into teacher_subject (teacher_id, subject_id) values (4, 3);
+--insert into teacher_subject (teacher_id, subject_id) values (5, 4);
+--insert into teacher_subject (teacher_id, subject_id) values (5, 6);
+--insert into teacher_subject (teacher_id, subject_id) values (5, 7);
+--insert into teacher_subject (teacher_id, subject_id) values (6, 4);
+--insert into teacher_subject (teacher_id, subject_id) values (7, 8);
+--insert into teacher_subject (teacher_id, subject_id) values (8, 6);
+--insert into teacher_subject (teacher_id, subject_id) values (8, 7);
+--insert into teacher_subject (teacher_id, subject_id) values (9, 6);
+--insert into teacher_subject (teacher_id, subject_id) values (9, 7);
+--insert into teacher_subject (teacher_id, subject_id) values (9, 4);
+--insert into teacher_subject (teacher_id, subject_id) values (10, 9);
+--insert into teacher_subject (teacher_id, subject_id) values (10, 10);
+--insert into teacher_subject (teacher_id, subject_id) values (11, 1);
+--insert into teacher_subject (teacher_id, subject_id) values (11, 2);
+--insert into teacher_subject (teacher_id, subject_id) values (12, 6);
+==============================================================================================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
